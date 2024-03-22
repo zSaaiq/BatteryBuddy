@@ -17,3 +17,7 @@ iPhone, iPad and iPod running iOS/iPadOS 15 or later
 
 ## License
 [GPLv3](https://github.com/Traurige/BatteryBuddy/blob/main/COPYING)
+
+## Original Developer
+
+[vyolit](https://github.com/vyolit/BatteryBuddy)
