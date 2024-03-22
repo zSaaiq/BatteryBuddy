@@ -5,11 +5,11 @@ Battery indicator, but cute
 <img src="Preview.png" alt="Preview" />
 
 ## Installation
-1. Download the latest `deb` from the [releases](https://github.com/Traurige/BatteryBuddy/releases)
-2. Install BatteryBuddy
+1. Add this repository to your package manager: https://zsaaiq.github.io/jailbreakrepo/
+2. Install **BatteryBuddy**
 
 ## Compatibility
-iPhone, iPad and iPod running iOS/iPadOS 13 or later
+iPhone, iPad and iPod running iOS/iPadOS 15 or later
 
 ## Compiling
   - [Theos](https://theos.dev/) is required to compile the project
