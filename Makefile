@@ -1,11 +1,12 @@
+FINALPACKAGE = 1
 export ARCHS = arm64 arm64e
-export SYSROOT = $(THEOS)/sdks/iPhoneOS14.4.sdk
+export SYSROOT = $(THEOS)/sdks/iPhoneOS15.6.sdk
 
 ifneq ($(THEOS_PACKAGE_SCHEME), rootless)
-export TARGET = iphone:clang:14.4:13.0
+export TARGET = iphone:clang:15.6
 export PREFIX = $(THEOS)/toolchain/Xcode.xctoolchain/usr/bin/
 else
-export TARGET = iphone:clang:14.4:15.0
+export TARGET = iphone:clang:15.6
 endif
 
 INSTALL_TARGET_PROCESSES = SpringBoard
